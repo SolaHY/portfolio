@@ -5,6 +5,7 @@ class SkillSection extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // SKILL
     final skills = ["Flutter", "Dart", "Firebase", "UI/UX Design"];
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
